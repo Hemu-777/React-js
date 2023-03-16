@@ -1,0 +1,30 @@
+Difference between library and framework ?
+
+Well, React is a library not a framework. But developers generally use the terms "library" and framework interchangeably, however they both are not same.The main criteria for frameworks are 
+
+Frameworks provide ready to use tools standards and templates for fast application development and libraries are not .
+
+Examples for libraries: 
+ React and j query 
+
+Frameworks are :
+Angular ,vue,Model view controller
+
+We can define a framework as a collection of libraries implementing a particular methodology.
+
+
+
+What is CDN?
+
+-> Content delivery network
+It is a network of interconnected servers that speeds up webpage loading for data -heavy applications.
+
+
+Example:
+
+If you want to change the image on your origin server, the file cached on the CDN won't change automatically.For the same product image, the CDN cache has a different version than the origin server.
+
+What is cross-origin in the script tag?
+
+It sets the mode of the request to an HTTP CORS request.  
+Example:  Style sheets, iframes, images, fonts, or scripts.
